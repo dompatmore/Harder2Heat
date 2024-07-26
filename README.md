@@ -46,7 +46,7 @@ This week we explored the merits of mocking and other ways to do developing code
 
 - [ ] On your project, document your use of a mocking framework and submit evidence of your use of mocking in a feature or to fix a bug. 
 
-- [ ] This European local government would like to know if they can use their API with this app. The API will be able to send information like number of floors, and distance to public transport in meters. a branch in your project to using a mocking framework of how you would test this implementation.
+- [ ] This European local government would like to know if they can use their API with this app. The API will be able to send information like number of floors, and distance to public transport in meters. Create a branch in your project to demonstrate using a mocking framework of how you would test this implementation.
 
 - [ ] Using a BDD or other framework, rewrite the tests done in part 1. 
 
